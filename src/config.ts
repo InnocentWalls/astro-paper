@@ -31,16 +31,16 @@ export const SOCIALS: SocialObjects = [
     active: true,
   },
   {
+    name: "Mail",
+    href: "mailto:blog@weight100kg.dev",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
     name: "Github",
     href: "https://github.com/InnocentWalls",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
-  },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
   },
   {
     name: "Twitter",
