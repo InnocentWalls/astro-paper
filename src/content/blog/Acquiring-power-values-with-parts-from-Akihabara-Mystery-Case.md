@@ -18,7 +18,7 @@ description:
 
 # 秋月の謎ケースのパーツで電力値取得
 
-<img src=https://image.weight100kg.dev/Wisun/Untitled.png>
+<img src="https://image.weight100kg.dev/Wisun/Untitled.png">
 
 もくじ
 
@@ -40,9 +40,9 @@ description:
 
 そして到着
 
-<img src=https://image.weight100kg.dev/Wisun/20230323_090740.jpg>
-<img src=https://image.weight100kg.dev/Wisun/20230323_090756.jpg>
-<img src=https://image.weight100kg.dev/Wisun/20230323_094138.jpg>
+<img src="https://image.weight100kg.dev/Wisun/20230323_090740.jpg">
+<img src="https://image.weight100kg.dev/Wisun/20230323_090756.jpg">
+<img src="https://image.weight100kg.dev/Wisun/20230323_094138.jpg">
 
 もちろんこのままだとただの基板なので、適切なプログラムを書く必要が有るのですが、
 
@@ -91,7 +91,7 @@ SKSCAN 2 FFFFFFFF 4
 
 そして色々こちょこちょこ実験をして、良い感じに消費電力量が変化するのも確認できました
 
-<img src=https://image.weight100kg.dev/Wisun/Untitled.png>
+<img src="https://image.weight100kg.dev/Wisun/Untitled.png">
 
 よかったですね
 
@@ -101,6 +101,6 @@ SKSCAN 2 FFFFFFFF 4
 
 から好しの大判唐揚げや唐揚げがめちゃくちゃ美味い
 
-<img src=https://image.weight100kg.dev/Wisun/20230216_173801.jpg>
+<img src="https://image.weight100kg.dev/Wisun/20230216_173801.jpg">
 
 皮がパリッパリで、普通の唐揚げは文字通り肉汁が滴る旨さで最高っす
