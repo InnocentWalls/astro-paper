@@ -1,13 +1,17 @@
 ---
 author: InnocentWalls
 pubDatetime: 2022-12-16T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
+modDatetime: 
 title: PimoroniでEnviro Growを買った
 slug: I-bought-Enviro-Grow-at-Pimoroni
 featured: true
 draft: false
 tags:
-  - docs　pimoroni RaspberryPi grafana influxdb
+  - docs
+  - pimoroni
+  - RaspberryPi
+  - grafana
+  - influxdb
 description: Pimoroniで色々買ってInfluxDBとGrafanaでエイヤした
 ---
 
