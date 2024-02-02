@@ -1,5 +1,5 @@
 ---
-author: 
+author: InnocentWalls
 pubDatetime: 2023-04-21T15:22:00Z
 modDatetime: 
 title: 秋月の謎ケースのパーツで電力値取得
