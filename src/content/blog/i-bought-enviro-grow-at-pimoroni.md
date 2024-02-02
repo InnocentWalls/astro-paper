@@ -127,7 +127,7 @@ InfluxDBとGrafanaのラズパイ上でのセットアップはこちらを参�
 
 これは2022@toshi_aワクワクセット
 
-<src= img "https://image.weight100kg.dev/toshiawaliwali.png">
+<img src="https://image.weight100kg.dev/toshiawaliwali.png">
 
 # おわりに
 
