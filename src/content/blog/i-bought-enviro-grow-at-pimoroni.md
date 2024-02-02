@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - docs　pimoroni RaspberryPi grafana influxdb
-description:Pimoroniで色々買って住環境データをInfluxDBとかGrafanaでエイヤした
+description:Pimoroniで色々買って住環境データをInfluxDBとかGrafanaでエイヤした.
 ---
 
 # PimoroniでEnviro Growを買った
