@@ -9,12 +9,12 @@ draft: false
 tags:
   - docs　pimoroni RaspberryPi grafana influxdb
 description:
-  ラズパイ
+Pimoroniで色々買って住環境データをInfluxDBとかGrafanaでエイヤした
 ---
 
 # PimoroniでEnviro Growを買った
 
-ここに画像
+<src= img "https://image.weight100kg.dev/Untitled.png">
 
 **smhn Advent Calendar 2022　16日目の記事です！**
 
@@ -103,13 +103,14 @@ InfluxDBとGrafanaのラズパイ上でのセットアップはこちらを参�
 
 ※2022/11/23のダッシュボード
 
-ここに画像
+<src= img "https://image.weight100kg.dev/Untitled.png">
 
 先代ダッシュボードの画面にはなりますが、そもそもの購入目的の一つである台風通過時の大気圧変化も見事取得できました。
 
 気圧ってここまで下がるんですね
 
-ここに画像
+<src= img "https://image.weight100kg.dev/830658928cdb118a.png">
+
 
 現在はEnviroGrow1個のみで部屋内の環境だけ拾っていますが、来年はUrbanを買って、お外の
 
@@ -119,7 +120,7 @@ InfluxDBとGrafanaのラズパイ上でのセットアップはこちらを参�
 
 これは東京の中野駅前にある「2代目 えん寺」で食えるベジポタつけ麺
 
-ここに画像
+<src= img "https://image.weight100kg.dev/7b8fe367e349e847.jpeg">
 
 デブにも優しい最大2.5玉まで盛ってくれて、どろり濃厚な浸け汁と胚芽麺のゴワゴワ食感がマジで美味い。
 
@@ -127,7 +128,7 @@ InfluxDBとGrafanaのラズパイ上でのセットアップはこちらを参�
 
 これは2022@toshi_aワクワクセット
 
-ここに画像
+<src= img "https://image.weight100kg.dev/toshiawaliwali.png">
 
 # おわりに
 
