@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - docs　pimoroni RaspberryPi grafana influxdb
-description: How to update project dependencies and AstroPaper template.
+description: Pimoroniで色々買ってInfluxDBとGrafanaでエイヤした
 ---
 
 # PimoroniでEnviro Growを買った
