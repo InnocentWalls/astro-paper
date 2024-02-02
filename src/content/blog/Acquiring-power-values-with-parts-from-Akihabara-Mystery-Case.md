@@ -11,7 +11,7 @@ tags:
   - Grafana
   - InfluxDB
   - Wi-SUN
-  description:
+description:
   秋月の謎パーツから電力値をエイヤする
   theme.
 ---
