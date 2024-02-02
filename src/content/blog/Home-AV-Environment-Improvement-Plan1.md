@@ -76,7 +76,7 @@ TV床置きなのが気になると思いますが、これは単に私の中で
 
 つづき
 
-[自宅AV環境向上計画2](https://www.notion.so/AV-2-48b8c6fc914f4911aad45f8ec0ef2a5c?pvs=21)
+[自宅AV環境向上計画2](https://blog.weight100kg.dev/posts/Home-AV-Environment-Improvement-Plan2/)
 
 ## おまけ
 

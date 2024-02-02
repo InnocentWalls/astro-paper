@@ -103,7 +103,7 @@ YAMAHAの方は今までPC側のオーディオをYAMAHAのスピーカーで聞
 
 ### つづき
 
-[自宅AV環境向上計画3](https://www.notion.so/AV-3-38c6a1a3779c4360a5ae4235290169b2?pvs=21)
+[自宅AV環境向上計画3](https://blog.weight100kg.dev/posts/Home-AV-Environment-Improvement-Plan3/)
 
 # その後気づいたこと
 
