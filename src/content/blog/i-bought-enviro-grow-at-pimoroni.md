@@ -4,7 +4,7 @@ pubDatetime: 2022-12-16T15:22:00Z
 modDatetime: 
 title: PimoroniでEnviro Growを買った
 slug: I-bought-Enviro-Grow-at-Pimoroni
-featured: true
+featured: false
 draft: false
 tags:
   - docs

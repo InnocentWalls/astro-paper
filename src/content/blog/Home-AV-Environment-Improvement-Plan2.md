@@ -4,7 +4,7 @@ pubDatetime: 2023-07-16T15:22:00Z
 modDatetime: 
 title: 自宅AV環境向上計画2
 slug: Home-AV-Environment-Improvement-Plan2
-featured: true
+featured: false
 draft: false
 tags:
   - TV
