@@ -8,7 +8,7 @@ featured: true
 draft: false
 tags:
   - docs　pimoroni RaspberryPi grafana influxdb
-description:Pimoroniで色々買って住環境データをInfluxDBとかGrafanaでエイヤした.
+description: How to update project dependencies and AstroPaper template.
 ---
 
 # PimoroniでEnviro Growを買った
