@@ -54,6 +54,9 @@ ITのオタクたちには釈迦に説法なのですが、CloudflarePagesはた
 
 [Cloudflare R2 | エグレス料金ゼロのオブジェクトストレージ | Cloudflare](https://www.cloudflare.com/ja-jp/developer-platform/r2/)
 
+今回使用したテーマはOGP画像を自動で生成してくれるの有り難いんだけど、日本語が豆腐になるので下記ブログを参考に手を加えました。
+[Astro＋Cloudflare Pagesでブログ構築](https://weboo.dev/posts/blog-by-astro-cloudflare-pages/)
+
 # 結果
 
 出来ました～
