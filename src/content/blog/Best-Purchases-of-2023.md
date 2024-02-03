@@ -4,7 +4,7 @@ pubDatetime: 2023-12-01T15:22:00Z
 modDatetime: 
 title: 2023年買ってよかったもの
 slug: Best-Purchases-of-2023
-featured: true
+featured: false
 draft: false
 tags:
   - other
