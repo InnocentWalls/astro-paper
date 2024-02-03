@@ -1,6 +1,6 @@
 ---
 author: InnocentWalls
-pubDatetime: 2024-02-03T15:22:00Z
+pubDatetime: 2024-02-03T01:22:00Z
 modDatetime: 
 title: ブログ式年遷宮2024
 slug: Blog-Style-Shikinen-Sengu-2024
