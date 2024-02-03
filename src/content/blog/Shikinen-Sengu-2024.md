@@ -7,7 +7,7 @@ slug: Blog-Style-Shikinen-Sengu-2024
 featured: true
 draft: false
 tags:
-  - other
+  - docs
 description:
   ブログを移行しました
 ---
