@@ -70,4 +70,4 @@ smhn管理運営の@toshi_a,@ahiru両名今年一年お疲れ様でした　来�
 
 お年玉***ください！！！！！！！！！！！！！！！***
 
-[](https://www.amazon.jp/hz/wishlist/ls/2B0XB6JYZS6WQ?ref_=wl_share)
+[ほしいものリスト](https://www.amazon.jp/hz/wishlist/ls/2B0XB6JYZS6WQ?ref_=wl_share)

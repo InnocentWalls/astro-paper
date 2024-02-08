@@ -179,4 +179,4 @@ smhnのポケモンマスターこと[**ふぇのまー氏**](https://social.mik
 
 ***12月27日は私の誕生日です　なにかください！！！！！！！！！！！！！！！***
 
-[](https://www.amazon.jp/hz/wishlist/ls/2B0XB6JYZS6WQ?ref_=wl_share)
+[ほしいものリスト](https://www.amazon.jp/hz/wishlist/ls/2B0XB6JYZS6WQ?ref_=wl_share)
