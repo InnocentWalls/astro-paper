@@ -3,6 +3,15 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
+とある日の社内にて
+？？？「えっ　〇〇さんってITパスポート持ってないんですか？　密入国じゃないっすかｗ」
+僕「いや基本情報は持ってますよ」
+？？？「それ何ですかｗ　ITパスポートの方が重要ですよｗ」
+
+勤務中の壮絶な雑談の内容である
+
+以下このサイトのテーマの説明
+
 AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
