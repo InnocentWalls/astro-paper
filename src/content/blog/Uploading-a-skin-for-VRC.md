@@ -4,7 +4,7 @@ pubDatetime: 2024-02-10T05:22:00Z
 modDatetime: 
 title: VRCの皮をアップロードする
 slug: Uploading-a-skin-for-VRC
-featured: true
+featured: false
 draft: false
 tags:
   - VRC
