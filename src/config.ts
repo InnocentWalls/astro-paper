@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "イット密入国者ブログ",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minute
 };
 
