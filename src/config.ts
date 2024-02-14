@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mastodon",
     href: "https://social.mikutter.hachune.net/@InnocentWalls",
     linkTitle: `${SITE.title} on Mastodon`,
-    active: true,
+    active: false,
   },
   {
     name: "Mail",
@@ -46,7 +46,7 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://twitter.com/InnocentWalls",
     linkTitle: `${SITE.title} on Twitter`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",
