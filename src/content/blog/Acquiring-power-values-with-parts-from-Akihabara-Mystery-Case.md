@@ -84,7 +84,7 @@ SKSCAN 2 FFFFFFFF 4
 
 この修正を施すことにより無事弊宅のスマートメーターと疎通ができました。
 
-<img src=https://image.weight100kg.dev/Wisun/Untitled 1.png>
+<img src=https://image.weight100kg.dev/Wisun/Untitled1.png>
 
 [百貫 (@InnocentWalls@social.mikutter.hachune.net)](https://social.mikutter.hachune.net/@InnocentWalls/110100901413060440)
 
