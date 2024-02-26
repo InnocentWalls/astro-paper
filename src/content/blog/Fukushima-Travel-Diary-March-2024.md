@@ -83,7 +83,9 @@ description:
 <img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193129.jpg">
 <img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_190057.jpg">
 <img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193459.jpg">
+
 その後、仙台駅周辺で牛たん食うぞ！！の流れになり、駅敷設のS-PAL地下で異様にうまい牛タンシチューを食ったり、ポケモンセンターを巡り、はやぶさでわずか1.5hの超短時間で東京に帰ってきました。
+
 <img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_202817.jpg">
 
 ## **おわりに**
