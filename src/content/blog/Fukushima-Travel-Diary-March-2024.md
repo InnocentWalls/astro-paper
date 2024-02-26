@@ -16,7 +16,7 @@ description:
 
 
 # **2024/3福島旅行記**
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_115919.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_115919.jpg">
 
 ## **はじめに**
 
