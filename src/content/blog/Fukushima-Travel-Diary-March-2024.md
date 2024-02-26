@@ -27,15 +27,15 @@ img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_115919.jpg">
 どーせ3連休予定ないし、家に引きこもってパソカタをする虚無の連休となるのが予想できたので、3人目として1泊2日の温泉旅行に同伴させていただくことになりました。
 
 ## **1日目**
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_093047.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_093047.jpg">
 
 という訳で予約した温泉宿は福島は土湯温泉街にある山根屋温泉ってところです。
 
 まずは車を出してくださるふぇのまー氏と合流するため福島駅へ向かうのですが、前日時点では「せっかく福島に行くんだから、行きくらいはローカル線乗り継いで行ったれｗ」と
 片道5時間の山手線→宇都宮線→東北本線のケツ破壊RTAルートを設定していましたが、ちょうど花粉で体調がオワになっていた事もあり、急遽行きも新幹線にしました。
 
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_111427.jpg">
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_120030.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_111427.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_120030.jpg">
 
 という訳で新幹線に乗り福島駅にておさけー氏とふぇのまー氏と合流し、とりあえず近所のウマい餃子屋で昼食を食おうと思ったらめっっちゃ並んでいたので、急遽
 コラッセふくしま内の物産館的スペースでカキフライ弁当を買って昼食にしました。異様に牡蠣が肉厚で美味しかったです。
@@ -54,8 +54,8 @@ img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240223_120030.jpg">
 
 川俣から飯舘は、実家が比曽のため山木屋ルートで巡ることになるのですが、道中私の知らない道路やトンネルがめっちゃ生えてました。
 
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_115919.jpg">
-img <src="https://image.weight100kg.dev/20240224_115919-2.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_115919.jpg">
+<img src="https://image.weight100kg.dev/20240224_115919-2.jpg">
 
 また、山木屋から比曽へ向かうための山越えでは、なんちゃって樹氷が日中の気温で解けた所に日光が差して激エモ光景になってました…が、カメラじゃ上手く撮影できませんでした。
 
@@ -65,7 +65,7 @@ img <src="https://image.weight100kg.dev/20240224_115919-2.jpg">
 
 えびす庵、私が小学生の頃通っていた小学校の下校ルート目の前に鎮座していたものの行く機会がないまま東京に出てしまったのですが、ようやく今回訪れることができました。
 
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_131311.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_131311.jpg">
 
 友人たちは看板メニューのうどんを選択し、私はなぜかカツ丼を選びました…が、カツ丼は普通のカツ丼だったのに対し、うどん系メニューが異様に美味そうだったので、次回があればうどんを決めたいところです。
 
@@ -73,18 +73,18 @@ img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_131311.jpg">
 
 原町へ向かう道中八木沢を通るわけですが、ここも謎の道路やトンネルが生えていて、あのエグい山越えルートが消えていて隔世の感がありました。
 
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_144223.jpg">
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_150335.jpg">
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_161747.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_144223.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_150335.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_161747.jpg">
 
 その後、相馬の道の駅でポケモンマンホールを撮ったり松川浦の道の駅的ポイントで買い物をしたり3人で海を見に行くぞ！した記憶はあるのですが、恥ずかしながら
 他人運転の車に乗ると眠くなってしまうタイプでして、結構普通にスヤスヤ寝て目覚めたら仙台市2歩手前みたいな状況でした…ふぇのまーさんｽﾝﾏｾﾝ。
 
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193129.jpg">
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_190057.jpg">
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193459.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193129.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_190057.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_193459.jpg">
 その後、仙台駅周辺で牛たん食うぞ！！の流れになり、駅敷設のS-PAL地下で異様にうまい牛タンシチューを食ったり、ポケモンセンターを巡り、はやぶさでわずか1.5hの超短時間で東京に帰ってきました。
-img <src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_202817.jpg">
+<img src="https://image.weight100kg.dev/Photos-001%20(1)%2F20240224_202817.jpg">
 
 ## **おわりに**
 
