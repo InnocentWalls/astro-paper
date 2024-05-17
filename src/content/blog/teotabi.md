@@ -190,7 +190,7 @@ description:
 # おまけ
 
 おさけーさん運転ありがとうございました！！！！！
-<img src="https://image.weight100kg.dev/2024GW%2FDSC00145.webp">
+<img src="https://image.weight100kg.dev/2024GW%2FPXL_20240429_132758652.webp">
 
 #おまけ2
 東京戻ったら秒で喉の痛みが治ってカス
