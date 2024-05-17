@@ -4,7 +4,7 @@ pubDatetime: 2023-05-17T00:22:00Z
 modDatetime: 
 title: てお旅2024GW
 slug: teoJourney2024GW
-featured: true
+featured: false
 draft: false
 tags:
   - teokure
