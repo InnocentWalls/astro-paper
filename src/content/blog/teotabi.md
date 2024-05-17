@@ -15,7 +15,7 @@ description:
 
 
 # 2024GWてお旅
-<img src="https://image.weight100kg.dev/PXL_20240501_095822670.webp">
+<img src="https://image.weight100kg.dev/2024GW%2FPXL_20240501_095822670.webp">
 
 
 今年のGWは無事10連休を錬成することが出来たので、2泊3日の日程で愉快なマイメン達と温泉に行ってきました。
