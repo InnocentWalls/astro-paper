@@ -86,7 +86,6 @@ SKSCAN 2 FFFFFFFF 4
 
 <img src="https://image.weight100kg.dev/Wisun%2FUntitled%201.png">
 
-[百貫 (@InnocentWalls@social.mikutter.hachune.net)](https://social.mikutter.hachune.net/@InnocentWalls/110100901413060440)
 
 そして色々こちょこちょこ実験をして、良い感じに消費電力量が変化するのも確認できました
 
