@@ -40,7 +40,7 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/InnocentWalls",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitter",
