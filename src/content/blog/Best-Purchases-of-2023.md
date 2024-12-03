@@ -9,7 +9,7 @@ draft: false
 tags:
   - other
 description:
-  2023年の散財リスト
+  2023年の散財リスト.
 ---
 
 # 2023年買ってよかったもの

@@ -9,7 +9,7 @@ draft: false
 tags:
   - other
 description:
-  2023年の振り返り
+  2023年の振り返り.
 ---
 
 # 2023年大晦日

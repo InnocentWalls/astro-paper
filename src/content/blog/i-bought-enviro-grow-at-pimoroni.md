@@ -12,7 +12,7 @@ tags:
   - RaspberryPi
   - grafana
   - influxdb
-description: Pimoroniで色々買ってInfluxDBとGrafanaでエイヤした
+description: Pimoroniで色々買ってInfluxDBとGrafanaでエイヤした.
 ---
 
 # PimoroniでEnviro Growを買った

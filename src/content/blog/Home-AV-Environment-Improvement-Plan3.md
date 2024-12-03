@@ -10,7 +10,7 @@ tags:
   - TV
   - Audio
 description:
-  7ch環境を揃えてUHDプレイヤーを買う
+  7ch環境を揃えてUHDプレイヤーを買う.
 ---
 
 # 自宅AV環境向上計画3

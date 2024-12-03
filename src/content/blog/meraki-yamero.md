@@ -9,7 +9,7 @@ draft: false
 tags:
   - network
 description:
-  2人で海を見に行くぞ！
+  2人で海を見に行くぞ！.
 ---
 
 # Merakiをやめろ

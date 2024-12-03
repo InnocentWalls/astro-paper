@@ -10,7 +10,7 @@ tags:
   - VRC
   - Unity
 description:
-  VRCの皮を上げるための雑ガイド
+  VRCの皮を上げるための雑ガイド.
 ---
 
 <img src="https://image.weight100kg.dev/VRCkawa%2FVRChat_2024-01-21_09-55-51.423_1920x1080.png">

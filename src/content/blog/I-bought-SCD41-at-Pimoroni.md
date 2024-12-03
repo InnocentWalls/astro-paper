@@ -12,7 +12,7 @@ tags:
   - InfluxDB
   - SCD41
 description:
-  PimoroniでSCD41を買ってエイヤした
+  PimoroniでSCD41を買ってエイヤした.
 ---
 
 # PimoroniでSCD41を買った

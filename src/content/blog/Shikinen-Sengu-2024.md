@@ -9,7 +9,7 @@ draft: false
 tags:
   - docs
 description:
-  ブログを移行しました
+  ブログを移行しました.
 ---
 
 # ブログ式年遷宮2024

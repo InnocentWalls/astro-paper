@@ -9,7 +9,7 @@ draft: false
 tags:
   - other
 description:
-  福島行ってきた
+  福島行ってきた.
 ---
 
 
