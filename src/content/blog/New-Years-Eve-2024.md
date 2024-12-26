@@ -11,6 +11,8 @@ tags:
 description:
   2024年の振り返り.
 ---
+<img src="https://image.weight100kg.dev/VRChat_2024-07-27_08-59-35.500_3840x2160.webp">
+
 
 # 2024年振り返り
 
