@@ -24,7 +24,7 @@ description:
 # MetaQuest3とVIVE Ultimate Tracker 
 <img src="https://image.weight100kg.dev/2024kouta/vrc2.webp">
 
-みなさんVRChatしていますか？　今年の春頃に買いましたが、ほぼ毎日稼働しています。
+みなさんVRChatしていますか？　今年の春頃にMetaQuest3とVIVE Ultimate Trackerを買いましたが、ほぼ毎日稼働しています。
 
 Quest3は全人類が買っていると思うので、VIVE Ultimate Tracker（以後ウルトラ） の方を紹介すると、全身トラッキングする方法はいくつかありますが、Pico系よりはVive系で揃えたかったってのと、通常のViveTrackerは入手性と耐久性がね…って懸念があったのでウルトラの方にした次第です。
 
