@@ -12,6 +12,7 @@ description:
   2024年買ってよかったもの.
 ---
 <img src="https://image.weight100kg.dev/2024kouta/vrc.webp">
+
 # 買ってよかったもの2024
 
 皆さんこんにちは　師走してますか？
