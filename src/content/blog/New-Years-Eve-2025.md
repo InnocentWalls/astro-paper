@@ -76,7 +76,6 @@ description:
 
 兵どもが夢の跡
 
-![image.png](image%204.png)
 
 ## 7月
 ![alt text](https://image.weight100kg.dev/20251231/IMG_1031.jpg)
