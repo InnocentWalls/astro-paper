@@ -13,6 +13,7 @@ description:
 ---
 
 # 2025年の振り返り
+![alt text](https://image.weight100kg.dev/20251231/VRChat_2025-12-07_13-35-36.209_3840x2160-2.jpg)
 
 皆さんこんにちは　大晦日を過ごしていますか？
 
@@ -25,50 +26,63 @@ description:
 ## 1月
 
 ソロ会津旅行しました
+![alt text](https://image.weight100kg.dev/20251231/IMG_0375.jpg)
 
 東北の人間なので定期的に馬鹿みたいに雪降ってるところに行かないと狂ってしまう
+![alt text](https://image.weight100kg.dev/20251231/IMG_0466.jpg)
+![alt text](https://image.weight100kg.dev/20251231/IMG_0518.jpg)
 
 会津旅行の目的の一つ、beatmania FINALを遊ぶ
+![alt text](https://image.weight100kg.dev/20251231/IMG_0491.jpg)
 
 ## 2月
 
 那須へ合宿に行ったりておくれに気がつく
+![alt text](https://image.weight100kg.dev/20251231/IMG_0574.JPG)
 
-![image.png](image.png)
+
 
 マイメンとニコタマで芋煮会もした
+![alt text](https://image.weight100kg.dev/20251231/IMG_0602.jpg)
 
-![image.png](image%201.png)
 
 ## 3月
 
 なにもしていないをしていた
 
 ## 4-5月
-
+![alt text](https://image.weight100kg.dev/20251231/IMG_0730.jpg)
 実家の墓参りをした
 
 福島県は既に熊に実効支配されている土地なので、墓参りするのも命がけです。
 
 この写真にも熊っぽい影が写っており、相手は気づいていなさそうなったので早足で車に戻りました。
 
-![image.png](image%202.png)
+
 
 ておくれ旅GWをした
+![alt text](https://image.weight100kg.dev/20251231/IMG_0793.jpg)
+![alt text](https://image.weight100kg.dev/20251231/IMG_0833.jpg)
 
 東北ほぼ横断旅という狂った旅でした
 
-![image.png](image%203.png)
+![alt text](https://image.weight100kg.dev/20251231/IMG_0860.jpg)
 
+
+これはすき焼き会でておくれる人
+![alt text](https://image.weight100kg.dev/20251231/IMG_0904.jpg)
 ## 6月
+![alt text](https://image.weight100kg.dev/20251231/IMG_0937.jpg)
 
 兵どもが夢の跡
 
 ![image.png](image%204.png)
 
 ## 7月
+![alt text](https://image.weight100kg.dev/20251231/IMG_1031.jpg)
 
 伊豆旅行をした
+![alt text](https://image.weight100kg.dev/20251231/IMG_1022.jpg)
 
 夏はクソなので絶対夏の旅行はしないと決めていたんですけど、なんか良い兆候を感じたので参加
 
@@ -79,35 +93,47 @@ description:
 暑すぎて何もしてない
 
 ## 9月
+![alt text](https://image.weight100kg.dev/20251231/IMG_1224.jpg)
 
 なつのおもいで作りをした
+これは千葉のAPAS4000
 
 東京湾一周のプチ旅行をした
 
 品川から木更津へアクアラインを通って行くバスが有るのを知り旅を計画した
 
 またbeatmaniaFINALをミニ筐体で遊んだり、昔住んでいたところの激ウマラーショを再訪したり、両国でアロハを買ったりした。
+![alt text](https://image.weight100kg.dev/20251231/IMG_1233.jpg)
+![alt text](https://image.weight100kg.dev/20251231/IMG_1261.jpg)
 
 実家の墓参りをした
+![alt text](https://image.weight100kg.dev/20251231/IMG_1278.jpg)
 
 熊が怖すぎるので実家周辺の写真1枚も撮ってなかったのに気がついた。
+![alt text](https://image.weight100kg.dev/20251231/IMG_1281.jpg)
+![alt text](https://image.weight100kg.dev/20251231/IMG_1286.jpg)
 
 ## 10月
+![alt text](https://image.weight100kg.dev/20251231/IMG_1387.jpg)
 
 那須へ合宿に（今年2回目）
 
 お前1年に何回那須行くねん
+![alt text](https://image.weight100kg.dev/20251231/IMG_1395.jpg)
 
 日光東照宮のバカ長い階段の9割9分登ったところでギブアップするなどをした
+![alt text](https://image.weight100kg.dev/20251231/IMG_1420.jpg)
 
 ## 11月
+![alt text](https://image.weight100kg.dev/20251231/IMG_1462.jpg)
 
 友人の引っ越し手伝いをした
 
 これは新居からの空
 
 千葉へお出かけ
-
+![alt text](https://image.weight100kg.dev/20251231/IMG_1481.jpg)
+![alt text](https://image.weight100kg.dev/20251231/IMG_1490.jpg)
 ## 12月←イマココ  
 
 
