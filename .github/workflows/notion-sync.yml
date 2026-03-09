@@ -29,7 +29,6 @@ jobs:
       - name: Install sync script dependencies
         run: |
           npm install --no-save \
-            @notionhq/client \
             notion-to-md \
             @aws-sdk/client-s3
 
