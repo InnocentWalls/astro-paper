@@ -220,7 +220,7 @@ function buildFrontmatter(fm) {
   if (fm.modDatetime) {
     lines.push(`modDatetime: ${fm.modDatetime}`);
   } else {
-    lines.push(`modDatetime:`);
+    lines.push(`modDatetime: null`);
   }
   lines.push(`title: ${fm.title}`);
   lines.push(`slug: ${fm.slug}`);
@@ -233,7 +233,7 @@ function buildFrontmatter(fm) {
     lines.push(`tags:`);
     lines.push(`  - other`);
   }
-  lines.push(`description: ${fm.description}`);
+  lines.push(`description: "${fm.description || ""}"`);
   lines.push("---");
   return lines.join("\n");
 }
