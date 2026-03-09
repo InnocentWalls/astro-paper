@@ -13,7 +13,6 @@
  *   R2_PUBLIC_URL         - R2の公開URL (例: https://pub-xxxx.r2.dev)
  */
 
-import { Client } from "@notionhq/client";
 import { NotionToMarkdown } from "notion-to-md";
 import { S3Client, PutObjectCommand, HeadObjectCommand } from "@aws-sdk/client-s3";
 import fs from "fs/promises";
@@ -26,9 +25,52 @@ import http from "http";
 const CONTENT_DIR = path.resolve("src/content/blog");
 const PROCESSED_FILE = path.resolve(".notion-sync-processed.json");
 
-// ===== クライアント初期化 =====
-const notion = new Client({ auth: process.env.NOTION_API_KEY });
-const n2m = new NotionToMarkdown({ notionClient: notion });
+// ===== Notion APIヘルパー（SDK v5対応のためraw fetchを使用） =====
+const NOTION_VERSION = "2022-06-28";
+
+async function notionFetch(endpoint, method = "GET", body = null) {
+  const url = `https://api.notion.com/v1${endpoint}`;
+  const options = {
+    method,
+    headers: {
+      "Authorization": `Bearer ${process.env.NOTION_API_KEY}`,
+      "Notion-Version": NOTION_VERSION,
+      "Content-Type": "application/json",
+    },
+  };
+  if (body) options.body = JSON.stringify(body);
+  const res = await fetch(url, options);
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`Notion API error ${res.status}: ${err}`);
+  }
+  return res.json();
+}
+
+async function queryDatabase(databaseId, filter, sorts) {
+  const results = [];
+  let cursor = undefined;
+  while (true) {
+    const body = { filter, sorts };
+    if (cursor) body.start_cursor = cursor;
+    const data = await notionFetch(`/databases/${databaseId}/query`, "POST", body);
+    results.push(...data.results);
+    if (!data.has_more) break;
+    cursor = data.next_cursor;
+  }
+  return results;
+}
+
+// notion-to-md用のシンプルなNotionクライアント互換オブジェクト
+const notionCompat = {
+  blocks: {
+    children: {
+      list: (args) => notionFetch(`/blocks/${args.block_id}/children?page_size=100`),
+    },
+  },
+};
+
+const n2m = new NotionToMarkdown({ notionClient: notionCompat });
 
 const r2 = new S3Client({
   region: "auto",
@@ -236,22 +278,19 @@ async function main() {
 
   // NotionデータベースからPublishedな記事を取得
   console.log("Fetching Published articles from Notion...");
-  const response = await notion.databases.query({
-    database_id: process.env.NOTION_DATABASE_ID,
-    filter: {
-      property: "Status",
-      select: { equals: "Published" },
-    },
-    sorts: [{ property: "PubDatetime", direction: "descending" }],
-  });
+  const results = await queryDatabase(
+    process.env.NOTION_DATABASE_ID,
+    { property: "Status", select: { equals: "Published" } },
+    [{ property: "PubDatetime", direction: "descending" }]
+  );
 
-  console.log(`Found ${response.results.length} published articles`);
+  console.log(`Found ${results.length} published articles`);
 
   let created = 0;
   let updated = 0;
   let skipped = 0;
 
-  for (const page of response.results) {
+  for (const page of results) {
     const pageId = page.id;
     const lastEdited = page.last_edited_time;
 
@@ -305,16 +344,14 @@ async function main() {
 
   // ArchivedになったページのMDファイルを削除
   console.log("\nChecking for Archived articles...");
-  const archivedResponse = await notion.databases.query({
-    database_id: process.env.NOTION_DATABASE_ID,
-    filter: {
-      property: "Status",
-      select: { equals: "Archived" },
-    },
-  });
+  const archivedResults = await queryDatabase(
+    process.env.NOTION_DATABASE_ID,
+    { property: "Status", select: { equals: "Archived" } },
+    []
+  );
 
   let deleted = 0;
-  for (const page of archivedResponse.results) {
+  for (const page of archivedResults) {
     const pageId = page.id;
     const fm = extractFrontmatter(page);
     if (fm.slug) {
