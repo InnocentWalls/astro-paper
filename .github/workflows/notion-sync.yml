@@ -49,5 +49,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add src/content/blog/ .notion-sync-processed.json
           # 変更がある場合のみコミット
-          git diff --staged --quiet || git commit -m "chore: sync articles from Notion "
+          git diff --staged --quiet || git commit -m "chore: sync articles from Notion"
           git push
