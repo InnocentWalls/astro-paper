@@ -1,6 +1,6 @@
 ---
 author: InnocentWalls
-pubDatetime: 2026-03-16T10:02:37.294Z
+pubDatetime: 2026-03-27T04:35:47.291Z
 modDatetime: 2026-03-14T00:00:00Z
 title: EndgameTrackballを買ってみた
 slug: endgame-trackball-review
@@ -71,3 +71,7 @@ amazonに返品とかここ数年したこと無かったので手間取いま�
 やっぱこれよ　聞いてるかTB800
 
 今のところこんくらいです　気が向いたら加筆します。
+
+3/27加筆
+
+会社用として使い続けていたのですが、トップシェルの構造上どうしてもチャタリングが頻発しており実用に耐えなかったのでおもちゃ箱送りとなりました😭
