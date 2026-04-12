@@ -1,6 +1,6 @@
 ---
 author: InnocentWalls
-pubDatetime: 2026-04-12T12:53:29.854Z
+pubDatetime: 2026-04-12T13:58:18.899Z
 modDatetime: 2026-04-12T00:00:00Z
 title: どこかにビューン！レポ
 slug: dokokani-viewn-report
