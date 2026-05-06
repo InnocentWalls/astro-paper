@@ -2,7 +2,7 @@
 author: InnocentWalls
 pubDatetime: 2026-05-05T00:00:00Z
 modDatetime: null
-title: Fate/Grand Order
+title: FGO
 slug: fgo-2bu-shusho-ni-yosete
 featured: true
 draft: false
@@ -12,6 +12,8 @@ description: "ありがとうございました"
 ---
 
 Fate/Grand Order第二部終章に寄せて
+
+以下二部終章の核心を含む内容が含まれます
 
 一〇年以上、FGOに付き合ってきた。
 
